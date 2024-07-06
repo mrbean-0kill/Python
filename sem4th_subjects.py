@@ -20,7 +20,7 @@ else:
     print("Nope we don't have")
 
 print("Demonstrating append() and insert() functions:")
-new_sub = "XYZ
+new_sub = "XYZ"
 subjects.append(new_sub)
 print("Updates subjects after appending new subject:",subjects)
 new_sub1 = "ABC"
